@@ -71,7 +71,7 @@ I configured and verified domain security settings including:
 - Why password + lockout + auditing policies are core security baselines in Windows environments
 ---
 
-## 
+
 This project reflects real enterprise Windows administration tasks. Domain-level policy enforcement is one of the most important ways organizations reduce risk from weak passwords, brute-force attacks, and untracked authentication activity. Adding a secondary Domain Controller also improves resiliency and reduces the chance of a single point of failure.
 ---
 ## Next Improvements
