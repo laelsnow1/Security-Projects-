@@ -43,4 +43,5 @@ I built this portfolio to strengthen my skills in:
 
 ## Contact
 - GitHub: https://github.com/laelsnow1
-- Linkedin: https://www.linkedin.com/in/lael-snow-01l2/ 
+- Linkedin: https://www.linkedin.com/in/lael-snow-01l2/
+- Email: laelsnow11@gmail.com
