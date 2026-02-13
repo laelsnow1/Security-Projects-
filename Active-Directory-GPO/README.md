@@ -23,16 +23,16 @@ This project was completed in a Windows Server 2019/2022 environment and followe
 - Local Security Policy
 - Virtual machines / cloud VM environment
 ---
-## What I Did (Step-by-Step Summary)
+## What I Did 
 ### 1. Built the Secondary Domain Controller (DC2)
 - Created a new Windows Server instance
 - Configured networking to match the domain environment
 
-### 2. Configured DNS Correctly (Important Part)
+### 2. Configured DNS Correctly
 To ensure domain join and replication worked correctly, I set the DNS configuration on DC2 so that:
 
 - **Primary DNS = IP address of DC1**
-- **Secondary DNS = external resolver (example: 1.1.1.1)**
+- **Secondary DNS = external resolver**
 
 This was required so DC2 could correctly locate the domain services hosted by DC1.
 
