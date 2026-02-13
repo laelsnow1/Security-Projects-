@@ -50,28 +50,27 @@ The main focus of this project was learning how to manage Linux systems in a clo
 ### VM-to-VM Connectivity (Ping Test)
 This screenshot shows successful connectivity between the two Ubuntu virtual machines in Azure.
 
-![Ping between VMs](screenshots/oing-vms.png)
+![Ping between VMs](Linux-firewalls-screenshots/oing-vms.png)
 
 ### UFW Firewall Rules (Default Deny + Allowed Ports)
 This screenshot shows UFW enabled with a default deny policy and only required ports allowed.
 
-![UFW rules](screenshots/ufw-rules.png)
+![UFW rules](Linux-firewalls-screenshots/ufw-rules.png)
 
 ### Passwordless Sudo Configuration (visudo)
 This screenshot shows the sudoers configuration that allows the sudo group to run commands without entering a password.
 
-![Sudoers config](screenshots/sudoers-nopw.png)
+![Sudoers config](Linux-firewalls-screenshots/sudoers-nopw.png)
 
 ### Apache Web Server Verification (curl)
 This screenshot shows Apache running and responding successfully when accessed remotely using curl.
 
-![Apache curl proof](screenshots/apache-curl.png)
+![Apache curl proof](Linux-firewalls-screenshots/apache-curl.png)
 
 ### Nginx Web Server Verification (curl)
 This screenshot shows Nginx running and responding successfully when accessed remotely using curl.
 
-![Nginx curl proof](screenshots/nginz-curl.pbg)
-
+![Nginx curl proof](Linux-firewalls-screenshots/nginz-curl.pbg)
 
 
 ---
