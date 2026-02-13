@@ -2,7 +2,7 @@
 
 ## Overview
 In this project, I installed and configured Splunk Enterprise on one Ubuntu virtual machine and installed the Splunk Universal Forwarder on a second Ubuntu virtual machine. The goal was to forward and centralize system logs so they could be searched and analyzed through Splunk’s web interface.
-This project demonstrates foundational SIEM-style monitoring skills including log ingestion, remote forwarding, and validating data collection through Splunk Search & Reporting.
+This project demonstrates SIEM monitoring skills including log ingestion, remote forwarding, and validating data collection through Splunk Search & Reporting.
 
 ---
 
@@ -55,7 +55,7 @@ This screenshot shows Splunk Enterprise successfully indexing and displaying log
 
 ---
 
-Splunk is widely used for monitoring, auditing, and incident response. This project demonstrates core SIEM skills such as log collection, remote forwarding, and searching across multiple systems for visibility and detection.
+Splunk is used for monitoring, auditing, and incident response. This project demonstrates core SIEM skills such as log collection, remote forwarding, and searching across multiple systems for visibility and detection.
 
 ---
 
