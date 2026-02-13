@@ -68,7 +68,10 @@ This screenshot shows Apache running and responding successfully when accessed r
 ![Apache curl proof](screenshots/apache-curl.png)
 
 ### Nginx Web Server Verification (curl)
-This screenshot shows Nginx running and responding successfully when accessed
+This screenshot shows Nginx running and responding successfully when accessed remotely using curl.
+
+![Nginx curl proof](screenshots/nginz-curl.pbg)
+
 
 
 ---
