@@ -47,8 +47,20 @@ I configured and verified domain security settings including:
 - Account lockout policy
 - Audit policy settings for security monitoring
 ---
-## Screenshots (Proof of Work)
-Screenshots for this project are stored in the `screenshots/` folder.
+## Screenshots (Proof)
+
+### Active Directory Users & Computers (Created Users)
+![AD Users and Computers showing created users](screenshots/AD-Project-Screenshots/ad-users.png)
+
+### Group Policy Password Policy Settings
+![GPO Password Policy](screenshots/AD-Project-Screenshots/gpo-password-policy.png)
+
+### Network Configuration (ipconfig)
+![ipconfig for DC1 and DC2](screenshots/AD-Project-Screenshots/ipconfig-dc1-dc2-network.png)
+
+### Connectivity Test (ping)
+![Ping test between DC1 and DC2](screenshots/AD-Project-Screenshots/ping-connectivity-dc1-dc2.png)
+
 ---
 
 ## What I Learned
