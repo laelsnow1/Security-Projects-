@@ -47,11 +47,8 @@ I configured and verified domain security settings including:
 - Account lockout policy
 - Audit policy settings for security monitoring
 ---
-## Screenshots (Proof)
+## Screenshots (Proof of Work)
 Screenshots for this project are stored in the `screenshots/` folder.
-
-> Once uploaded, I will embed the key screenshots directly into this README.
-
 ---
 
 ## What I Learned
