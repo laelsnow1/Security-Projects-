@@ -50,7 +50,7 @@ The main focus of this project was learning how to manage Linux systems in a clo
 ### VM-to-VM Connectivity (Ping Test)
 This screenshot shows successful connectivity between the two Ubuntu virtual machines in Azure.
 
-![Ping between VMs](Linux-firewalls-screenshots/oing-vms.png)
+![Ping between VMs](Linux-firewalls-screenshots/ping-vms.png)
 
 ### UFW Firewall Rules (Default Deny + Allowed Ports)
 This screenshot shows UFW enabled with a default deny policy and only required ports allowed.
