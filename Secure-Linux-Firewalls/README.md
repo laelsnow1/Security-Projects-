@@ -84,7 +84,6 @@ This screenshot shows Nginx running and responding successfully when accessed re
 
 ---
 
-## Security Relevance (Why this matters)
 This project demonstrates foundational blue-team and system administration skills: account management, least privilege, firewall enforcement, service validation, and log awareness. These are core tasks in real Linux server environments.
 
 ---
