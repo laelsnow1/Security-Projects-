@@ -70,7 +70,7 @@ This screenshot shows Apache running and responding successfully when accessed r
 ### Nginx Web Server Verification (curl)
 This screenshot shows Nginx running and responding successfully when accessed remotely using curl.
 
-![Nginx curl proof](Linux-firewalls-screenshots/nginz-curl.pbg)
+![Nginx curl proof](Linux-firewalls-screenshots/nginx-curl.png)
 
 
 ---
