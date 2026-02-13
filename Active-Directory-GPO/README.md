@@ -4,7 +4,7 @@
 In this project, I configured a Windows Server Active Directory domain environment and added a secondary Domain Controller (DC2) for redundancy. I also applied Group Policy security hardening by configuring password policies, lockout policies, and audit policies to strengthen authentication security across the domain.
 
 This project was completed in a Windows Server 2019/2022 environment and followed real-world domain join and DNS requirements.
----
+
 ## Requirements
 - Configure a secondary Domain Controller (DC2)
 - Create a new Windows Server 2019 or 2022 instance (cloud VM environment)
@@ -13,7 +13,7 @@ This project was completed in a Windows Server 2019/2022 environment and followe
   - Local Security Policy
   - Group Policy Management (GPMC)
 - Verify DNS settings were correct for domain join and replication
-- Troubleshoot connectivity (ping between systems)
+- Troubleshoot connectivity 
 ---
 ## Tools Used 
 - Windows Server 2019 / 2022
@@ -72,7 +72,7 @@ I configured and verified domain security settings including:
 ---
 
 This project reflects real enterprise Windows administration tasks. Domain-level policy enforcement is one of the most important ways organizations reduce risk from weak passwords, brute-force attacks, and untracked authentication activity. Adding a secondary Domain Controller also improves resiliency and reduces the chance of a single point of failure.
----
+
 ## Next Improvements
 - Add OU-based policy scoping (instead of applying everything domain-wide)
 - Add least privilege role separation (admin vs standard accounts)
