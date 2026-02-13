@@ -45,7 +45,7 @@ The main focus of this project was learning how to manage Linux systems in a clo
 
 ---
 
-## Screenshots (Proof)
+## Screenshots 
 
 ### VM-to-VM Connectivity (Ping Test)
 This screenshot shows successful connectivity between the two Ubuntu virtual machines in Azure.
