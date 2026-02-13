@@ -42,7 +42,7 @@ This project demonstrates foundational SIEM-style monitoring skills including lo
 ### Splunk Search & Reporting (Forwarded Logs)
 This screenshot shows Splunk Enterprise successfully indexing and displaying log events through the Search & Reporting interface after configuring log collection and forwarding.
 
-![Splunk search showing forwarded logs](Splunk-screenshots/splunk-search-forwarded-logs.png)
+![Splunk search showing forwarded logs](Splunk-screenshots/splunk-monitoring.png)
 
 
 ---
