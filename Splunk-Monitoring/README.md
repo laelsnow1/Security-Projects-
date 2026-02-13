@@ -37,9 +37,13 @@ This project demonstrates foundational SIEM-style monitoring skills including lo
 - Used Splunk Search & Reporting to confirm logs from the second VM were being indexed and searchable
 
 ---
-
 ## Screenshots (Proof)
-Screenshots for this project are stored in the `screenshots/` folder.
+
+### Splunk Search & Reporting (Forwarded Logs)
+This screenshot shows Splunk Enterprise successfully indexing and displaying log events through the Search & Reporting interface after configuring log collection and forwarding.
+
+![Splunk search showing forwarded logs](Splunk-screenshots/splunk-search-forwarded-logs.png)
+
 
 ---
 
