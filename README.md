@@ -2,7 +2,7 @@
 
 Hi, I’m Lael Snow a Computer Science student focused on cybersecurity and cloud security.
 
-This repository contains hands-on security projects I completed using Microsoft Azure virtual machines. Each folder includes my own write-up, what I learned, and screenshots as proof of completion.
+This repository contains hands-on security projects I completed using Microsoft Azure virtual machines. Each folder includes my own write-up, what I learned, and screenshots of completion.
 
 ---
 
@@ -11,7 +11,7 @@ This repository contains hands-on security projects I completed using Microsoft 
 - Windows Active Directory + Group Policy configuration
 - Linux system administration and firewall hardening
 - Vulnerability exploitation (Heartbleed)
-- SIEM-style monitoring using Splunk Enterprise and Universal Forwarder
+- SIEM monitoring using Splunk Enterprise and Universal Forwarder
 
 ---
 
